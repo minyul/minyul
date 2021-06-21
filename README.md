@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @minyul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Min Yul
 
-<!---
-minyul/minyul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education & Career 
+- (14.03 - 20.08) [MYONGJI University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - Computer Engineering
+- (20.07 - 20.09) [Megazone_Pentacle](https://www.pentacle.co.kr/#MAIN) - Web Developer Intern
+- (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - Web Developer 
+
+## Resume
+-  x
+
+## Interest 
+- Web 
+
+## Digital Footprints 
+- Development [BLOG](https://velog.io/@ggomjae)
