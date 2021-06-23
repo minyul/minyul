@@ -12,4 +12,4 @@
 - Web 
 
 ## Digital Footprints 
-- Development [BLOG](https://velog.io/@ggomjae)
+- Development [BLOG](https://velog.io/@minyul)
