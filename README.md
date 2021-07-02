@@ -13,3 +13,4 @@
 
 ## Digital Footprints 
 - Development [BLOG](https://velog.io/@minyul)
+- Diary [BLOG](미정)
