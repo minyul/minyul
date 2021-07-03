@@ -5,9 +5,6 @@
 - (20.07 - 20.09) [Megazone_Pentacle](https://www.pentacle.co.kr/#MAIN) - Web Developer Intern
 - (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - Web Developer 
 
-## Resume
--  x
-
 ## Interest 
 - Web 
 
