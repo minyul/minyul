@@ -6,7 +6,7 @@
 - (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - Web Developer 
 
 ## 💡
-- 언젠간 잘리고 회사는 망하고 우리는 죽는다.
+- 그럴수있지
 
 ## Digital Footprints 
 - Development [BLOG](https://velog.io/@minyul)
