@@ -1,4 +1,4 @@
-# Min Yul
+# Min Yul  - [이력서](https://github.com/minyul/MINYUL_RESUME)
 
 ## Education & Career 
 - (14.03 - 20.08) [MYONGJI University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - Computer Engineering
