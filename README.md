@@ -6,7 +6,7 @@
 - (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - Web Developer 
 
 ## 💡
-- 그럴수있지
+- 'ㅂ'
 
 ## Digital Footprints 
 - Development [BLOG](https://velog.io/@minyul)
