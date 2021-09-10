@@ -10,5 +10,5 @@
 
 ## Digital Footprints 
 - Development [BLOG](https://velog.io/@minyul)
-- Diary [BLOG](https://blog.naver.com/ggomjae) - 바뀔 예정
+- Diary [BLOG](https://m-yul.tistory.com)
 - 하루 한줄 개발 일기 [GITHUB](https://github.com/minyul/Diary)
