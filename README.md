@@ -8,4 +8,4 @@
 ## 나의 이력
 - 나의 이력 - [이력서](https://github.com/minyul/MINYUL_RESUME)
 ## 💡
-- 'ㅡ'.....! 밝음 
+- 'ㅁ' 'ㅂ' 'ㅡ' 
