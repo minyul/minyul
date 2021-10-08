@@ -8,4 +8,4 @@
 ## 나의 이력
 - 나의 이력 - [이력서](https://github.com/minyul/MINYUL_RESUME)
 ## 나의 생각
--  헬스, 개발
+-  헬스, 개발, 철학
