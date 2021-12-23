@@ -1,17 +1,17 @@
 # 민 율 (Min Yul) 
 
 ## 참여 서비스
-- (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - 웹 개발자   
-  - ZUM Invest 1차 런칭[https://invest.zum.com/]  : 홈, 투자노트 
-  - ZUM Invest 2차 런칭[https://invest.zum.com/]  : 국내, 해외
+- (20.12 -  ~ING) ZUMinternet   
+  - [ZUM Invest 1차 런칭](https://invest.zum.com/)  : 홈, 투자노트 
+  - [ZUM Invest 2차 런칭](https://invest.zum.com/)  : 국내, 해외
 
 ## 프로젝트 기록
-- WhoWho 통계 CMS[]
-- ZUM Invest 1차[]
-- ZUM Invest 2차[]
+- [WhoWho 통계 CMS]()
+- [ZUM Invest 1차]()
+- [ZUM Invest 2차]()
 
 ## 회고
-- 2021년 회고록[]
+- [2021년 회고록]()
 
 ## 나의 기록 
 - 나의 개발 기록 : [Velog](https://velog.io/@minyul)
