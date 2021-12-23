@@ -1,5 +1,5 @@
-# 민 율 
-- [개발 기록](https://velog.io/@minyul)  
+# 민 율 - Min Yul 
+- [개발 블로그](https://velog.io/@minyul)  
 - [매일 일기](https://velog.io/@minyul/%EB%A7%A4%EC%9D%BC-%EC%9D%BC%EA%B8%B0)
 
 ## 주요 개발 서비스
