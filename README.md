@@ -1,4 +1,6 @@
-# 민 율 - [개발 기록](https://velog.io/@minyul) , [매일 일기](https://velog.io/@minyul/%EB%A7%A4%EC%9D%BC-%EC%9D%BC%EA%B8%B0)
+# 민 율 
+- [개발 기록](https://velog.io/@minyul)  
+- [매일 일기](https://velog.io/@minyul/%EB%A7%A4%EC%9D%BC-%EC%9D%BC%EA%B8%B0)
 
 ## 주요 개발 서비스
 - [ZUM Invest 홈, 투자노트](https://invest.zum.com/) 
