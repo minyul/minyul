@@ -14,4 +14,4 @@
 - [2021년 회고록]()
 
 ## 기록
-- [Cluster Index vs Non-Cluster Index 이론 및 성능 비교(https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL)
+- [Cluster Index vs Non-Cluster Index 이론 및 성능 비교](https://velog.io/@minyul/Cluster-Index-vs-Non-Cluster-Index-%EC%9D%B4%EB%A1%A0-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-JPA-MYSQL)
