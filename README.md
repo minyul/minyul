@@ -7,7 +7,7 @@
 - (21.06 - 21.09) [ZUM Invest 홈, 투자노트](https://invest.zum.com/)  - **[후기](https://velog.io/@minyul)** 
 
 ## 서브 개발 프로젝트
-- (21.01 - 21.04) [WhoWho 통계](https://www.whowhocorp.com/ko/) - **[후기](https://velog.io/@minyul)**   
+- (21.01 - 21.04) 신입 파일럿 과제 : [WhoWho 통계](https://www.whowhocorp.com/ko/) - **[후기](https://velog.io/@minyul)**   
 
 ## 회고
 - [2021년 회고](https://velog.io/@minyul)
