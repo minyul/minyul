@@ -1,6 +1,5 @@
 # 민 율 
 - [개발 블로그](https://velog.io/@minyul)  
-- [매일 일기](https://velog.io/@minyul/%EB%A7%A4%EC%9D%BC-%EC%9D%BC%EA%B8%B0)
 
 ## 회고
 - [2021년 회고 - 1년차 개발자](https://velog.io/@minyul/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
