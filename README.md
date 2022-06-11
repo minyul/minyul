@@ -9,5 +9,5 @@
 ## Article 
 임시
 
-## E
+## Etc
 [2021년 회고 - 1년차 개발자](https://velog.io/@minyul/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
