@@ -1,6 +1,6 @@
 # Min Yul 
 [개발 블로그](https://velog.io/@minyul)  
-[일기](https://velog.io/@minyul/2022%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%9D%BC%EA%B8%B0)
+[지나간 시간들을 기록한 일기](https://velog.io/@minyul/2022%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%9D%BC%EA%B8%B0)
 
 ## Education & Career 
 - (14.03 - 20.08) [MYONGJI University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - Computer Engineering
